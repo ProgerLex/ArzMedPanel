@@ -1,3 +1,4 @@
+<img width="1590" height="400" alt="iLyyLRX" src="https://github.com/user-attachments/assets/131de399-babf-4d02-a4a5-dac4ad1d1064" />
 # ArzMedPanel
 Удобная и быстрая панель медика для Arizona RP на MoonLoader и mimgui.
 
